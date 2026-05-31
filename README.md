@@ -1,7 +1,6 @@
 <p align="center"><a href="https://github.com/AnizenApp/Anizen"><img src="app_icon.png" width="150"></a></p> 
 <h2 align="center"><b>Saku</b></h2>
 <h4 align="center">Ücretsiz ve reklamsız bir anime izleme uygulaması</h4>
-<p align="center"><a href="https://bozkurtstudio.github.io/new-version.apk"><img src="download.png"></a></p> 
 <p align="center">
 <a href="https://github.com/AnizenApp/Anizen" alt="GitHub release"><img src="https://img.shields.io/badge/version-1.3-blue.svg" ></a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
