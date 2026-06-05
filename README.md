@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/AnizenApp/Anizen"><img src="AnivioLogo.jpg" width="150"></a></p> 
+<p align="center"><a href="https://github.com/AnizenApp/Anizen"><img src="ChatGPT Image 3 Haz 2026 13_42_28 (1).png" width="150"></a></p> 
 <h2 align="center"><b>Animiyu</b></h2>
 <h4 align="center">Ücretsiz ve reklamsız bir anime izleme uygulaması</h4>
 <p align="center">
