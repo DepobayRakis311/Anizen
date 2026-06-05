@@ -2,7 +2,7 @@
 <h2 align="center"><b>Aniyum</b></h2>
 <h4 align="center">Ücretsiz ve reklamsız bir anime izleme uygulaması</h4>
 <p align="center">
-<a href="https://github.com/AnizenApp/Anizen" alt="GitHub release"><img src="https://img.shields.io/badge/version-1.3-blue.svg" ></a>
+<a href="https://github.com/AnizenApp/Anizen" alt="GitHub release"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" ></a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
 <a href="" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-yellowgreen.svg"></a>
 </p>
