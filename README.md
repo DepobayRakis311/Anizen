@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/AnizenApp/Anizen"><img src="app_icon.png" width="150"></a></p> 
-<h2 align="center"><b>Mizuen</b></h2>
+<h2 align="center"><b>Aniyum</b></h2>
 <h4 align="center">Ücretsiz ve reklamsız bir anime izleme uygulaması</h4>
 <p align="center">
 <a href="https://github.com/AnizenApp/Anizen" alt="GitHub release"><img src="https://img.shields.io/badge/version-1.3-blue.svg" ></a>
