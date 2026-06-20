@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/AnizenApp/Anizen"><img src="ChatGPT Image 3 Haz 2026 13_42_28 (1).png" width="150"></a></p> 
-<h2 align="center"><b>Animiku</b></h2>
+<h2 align="center"><b>Animori</b></h2>
 <h4 align="center">Ücretsiz ve reklamsız bir anime izleme uygulaması</h4>
 <p align="center">
 <a href="https://github.com/AnizenApp/Anizen" alt="GitHub release"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" ></a>
@@ -20,7 +20,7 @@
 [<img src="screenshots/screenshot_9.png" width=405>](screenshots/screenshot_9.png)
 
 ## Hakkında
-Animiku, anime izleyicilerinin favori animelerini her zaman ve her yerde izleyebilmeleri için tasarlanmış bir android uygulamasıdır. Bu kullanıcı dostu uygulama, ücretsiz ve reklamsız olmasıyla beraber geniş anime koleksiyonu ve kullanışlı özellikleriyle anime izlemeyi en keyifli hale getiriyor.
+Animori, anime izleyicilerinin favori animelerini her zaman ve her yerde izleyebilmeleri için tasarlanmış bir android uygulamasıdır. Bu kullanıcı dostu uygulama, ücretsiz ve reklamsız olmasıyla beraber geniş anime koleksiyonu ve kullanışlı özellikleriyle anime izlemeyi en keyifli hale getiriyor.
 
 Uygulama, kullanıcıların en sevdikleri anime serilerini yüksek kalitede ve kesintisiz bir şekilde izlemelerine olanak tanır. Anizen'in arayüzü sade ve şık tasarımıyla dikkat çekerken, kullanıcılar kolayca istedikleri animeyi bulabilir, kategorilere göz atabilir ve yeni çıkan animeleri takip edebilirler.
 
