@@ -20,7 +20,7 @@
 [<img src="screenshots/screenshot_9.png" width=405>](screenshots/screenshot_9.png)
 
 ## Hakkında
-Anizen, anime izleyicilerinin favori animelerini her zaman ve her yerde izleyebilmeleri için tasarlanmış bir android uygulamasıdır. Bu kullanıcı dostu uygulama, ücretsiz ve reklamsız olmasıyla beraber geniş anime koleksiyonu ve kullanışlı özellikleriyle anime izlemeyi en keyifli hale getiriyor.
+Animoru, anime izleyicilerinin favori animelerini her zaman ve her yerde izleyebilmeleri için tasarlanmış bir android uygulamasıdır. Bu kullanıcı dostu uygulama, ücretsiz ve reklamsız olmasıyla beraber geniş anime koleksiyonu ve kullanışlı özellikleriyle anime izlemeyi en keyifli hale getiriyor.
 
 Uygulama, kullanıcıların en sevdikleri anime serilerini yüksek kalitede ve kesintisiz bir şekilde izlemelerine olanak tanır. Anizen'in arayüzü sade ve şık tasarımıyla dikkat çekerken, kullanıcılar kolayca istedikleri animeyi bulabilir, kategorilere göz atabilir ve yeni çıkan animeleri takip edebilirler.
 
